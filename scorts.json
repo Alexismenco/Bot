@@ -1,0 +1,60 @@
+{
+    "Ancud": [
+        {
+            "nombre": "Ana",
+            "edad": 25,
+            "foto": "https://img.freepik.com/vector-gratis/chica-sosteniendo-corazon_1450-165.jpg?t=st=1720957879~exp=1720961479~hmac=803d6bd121fc29c250c7446db71a0f0daacbc852c5a13a93e061955bcd62527c&w=740",
+            "lugar": "S\u00ed",
+            "telegram": "https://t.me/AnaContact",
+            "activada": true,
+            "medidas": "90-60-90",
+            "estatura": "160 cm"
+        },
+        {
+            "nombre": "Beatriz",
+            "edad": 30,
+            "foto": "https://bucket.somosohlala.com.ar/s3fs-public/styles/internal_990/public/2022-08/rocio_strat.jpg.webp?itok=7CdU4rxE",
+            "lugar": "No",
+            "telegram": "https://t.me/BeatrizContact",
+            "activada": false,
+            "medidas": "90-60-90",
+            "estatura": "160 cm"
+        }
+    ],
+    "Castro": [
+        {
+            "nombre": "Dasha",
+            "edad": 22,
+            "lugar": "No",
+            "telegram": "https://t.me/dasha_orgjj",
+            "foto": "https://img.freepik.com/foto-gratis/chica-linda-posando_23-2147639420.jpg?t=st=1721164347~exp=1721167947~hmac=85f58df411bd7b0fc5022b8a6a6c3dffabfcd7516d4bba0d422e914264b7ea06&w=740",
+            "activada": true,
+            "medidas": "90-60-90",
+            "estatura": "160 cm"
+        }
+    ],
+    "Quemchi": [
+        {
+            "nombre": "Dasha",
+            "edad": 22,
+            "lugar": "No",
+            "telegram": "https://t.me/dasha_org",
+            "foto": "https://i.pinimg.com/736x/1a/cd/75/1acd75f2b793e22515b4c1096aec6343.jpg",
+            "activada": true,
+            "medidas": "90-60-90",
+            "estatura": "160 cm"
+        }
+    ],
+    "Chonchi": [
+        {
+            "nombre": "Dasha",
+            "edad": 50,
+            "lugar": "Si",
+            "telegram": "https://t.me/dasha_orgb",
+            "foto": "https://i.pinimg.com/736x/1a/cd/75/1acd75f2b793e22515b4c1096aec6343.jpg",
+            "activada": false,
+            "medidas": "80-80-80",
+            "estatura": "345"
+        }
+    ]
+}
